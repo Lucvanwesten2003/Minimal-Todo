@@ -19,7 +19,7 @@ import com.example.avjindersinghsekhon.minimaltodo.Main.MainFragment;
 import com.example.avjindersinghsekhon.minimaltodo.R;
 
 public class AboutActivity extends AppDefaultActivity {
-
+    //test
     private TextView mVersionTextView;
     private String appVersion = "0.1";
     private Toolbar toolbar;
